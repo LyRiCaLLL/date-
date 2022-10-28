@@ -1,0 +1,83 @@
+body{
+
+
+
+  color: rgb(63,251,121);
+  color: radial-gradient(circle, rgba(63,251,121,1) 0%, rgba(70,252,189,1) 100%);
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(70,252,209,1) 100%);
+}
+img{
+  
+  height: 400px;
+  margin-left: 31% ;
+  position:center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  h1 {
+    display: block;
+    margin-left: 32%;
+    margin-right: auto;
+    width: auto;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+    button {
+        position: absolute;
+      }
+    
+      Button {
+        text-align: center;
+        margin-top: 20px;
+        padding: 20px;
+        border: 1px solid black;
+        border-width: 2px;
+        width: 290px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 40px;
+        margin: 40px;
+        transition: color 1s;
+        position: absolute;
+        color:rgb(16, 30, 19);;
+        color: radial-gradient(circle, rgb(113, 212, 37) 0%, rgb(83, 213, 168) 100%);
+        background: rgb(57, 238, 93);;
+        background: linear-gradient(circle, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+   
+       
+      }
+      button:hover{
+          color: rgb(28, 121, 155);
+          color: radial-gradient(circle, rgb(113, 212, 37) 0%, rgb(83, 213, 168) 100%);
+         background: rgb(68, 165, 193);
+         background: radial-gradient(circle, rgb(138, 63, 251) 0%, rgb(228, 70, 252) 100%);
+      }
+      .yes{
+        margin-left: 25%;
+      }
+      
+      #runaway-container {
+        position: absolute;
+      
+        padding: 20px;
+       
+        margin-left:55%;
+        margin-top: 40px;
+      }
+      
+      #runaway {
+        margin-left: 25%;
+      }
+      h6{
+        display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    width: auto;
+  color:black    
+  }
